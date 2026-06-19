@@ -8,6 +8,17 @@
     <description>Auto-update feed for Flexytime macOS app.</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.9</title>
+      <pubDate>Fri, 19 Jun 2026 23:03:39 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Update to v2.0.9.</p>
+      ]]></description>
+      <enclosure url="https://github.com/FlexyTime/flexymac-releases/releases/download/v2.0.9/Flexytime-2.0.9.dmg" type="application/octet-stream" sparkle:edSignature="+3trwYlOg7ntj23Fv8mN1Lx9eBLw9qJCe4QnXqD4x0+eB3J7l9HykJABDaC54f6U4BccCgBlnMDlLUkEdyllCg==" length="1629542" />
+    </item>
+    <item>
       <title>Version 2.0.8</title>
       <pubDate>Fri, 19 Jun 2026 22:47:44 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
